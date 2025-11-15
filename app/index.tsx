@@ -18,6 +18,9 @@ export default function Index() {
         </Button>
       </Link>
       <Link href={'/third'} >third </Link>
+      <Link href={'/login'}>
+      Login
+      </Link>
     </View>
   );
 }
